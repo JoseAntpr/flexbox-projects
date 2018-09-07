@@ -178,3 +178,12 @@ nav ul a {
 .sociales ul li a[href*='pinterest.com']::before{
   content: "\f0d2";
 }
+
+/** Combinado social y dropdown */
+
+
+.navegacion-social-dropdown{
+  display: flex;
+  justify-content: space-between;
+  background-color: #3F51B5;
+}
