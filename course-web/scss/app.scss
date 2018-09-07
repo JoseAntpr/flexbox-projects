@@ -1,8 +1,8 @@
-//Variables
-//Colores
-$principal: #33c3f0;
-$white: #ffffff;
-$gray: #e1e1e1;
+@import 'variables';
+
+body{
+    font-family: $main_font;
+}
 
 
 .contenedor{
