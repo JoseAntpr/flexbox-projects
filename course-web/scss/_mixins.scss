@@ -1,0 +1,10 @@
+//buttons
+@mixin button( $color ) {
+    background-color: $color;
+    padding: .5rem 1rem;
+    margin-top: 1rem;
+    display: block;
+    color: $white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
